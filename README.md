@@ -1,5 +1,6 @@
 #include(stdio.h)
 void main()
 {
-print('hello')
-print('hi')
+print("hello")
+print("hi");
+}
